@@ -35,7 +35,7 @@ Evaluar las tiendas con base en los siguientes criterios:
 
 ## 📎 Archivo del análisis
 
-Revisá el notebook [informe_final.ipynb](./informe_final.ipynb) para ver el análisis completo, los gráficos utilizados y la justificación detallada de la recomendación.
+Revisa el notebook [informe_final.ipynb](./informe_final.ipynb) para ver el análisis completo, los gráficos utilizados y la justificación detallada de la recomendación.
 
 "Agregando README con resumen del análisis".
 
